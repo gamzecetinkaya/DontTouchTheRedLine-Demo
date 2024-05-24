@@ -1,4 +1,4 @@
-# DontTouchTheRedLine-Demo
+# Dont Touch The Red Line - Demo
  Kırmızı çizgiye değmeden yeşil kutuları yok etmeye çalıştığımız, seviye arttırmalı oyun. 
 
 ![Ekran görüntüsü 2024-05-23 191028](https://github.com/gamzecetinkaya/DontTouchTheRedLine-Demo/assets/86261472/ef531cd3-4b31-4af5-910c-1537866dff89)
